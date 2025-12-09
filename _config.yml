@@ -3,5 +3,4 @@ description: Built using Jekyll + GitHub Pages
 theme: minima
 # 顶部导航栏要显示的页面
 header_pages:
-  - index.md
   - about.md
