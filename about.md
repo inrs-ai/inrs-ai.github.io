@@ -15,7 +15,7 @@ You can verify my signed commits and messages using the following public key:
 **Fingerprint:**  
 `1205 D6B0 1B80 B27E C13C  4FB7 F5FC 8F67 6890 DBF0`
 
-<a href="assets/1205D6B01B80B27EC13C4FB7F5FC8F676890DBF0.asc" download>⬇️ Download full public key (.asc)</a>
+<a href="/assets/1205D6B01B80B27EC13C4FB7F5FC8F676890DBF0.asc" download>⬇️ Download full public key (.asc)</a>
 
 ---
 
