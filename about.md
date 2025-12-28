@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-## 🛸About Me
+## 🛸 About Me
 
 Hi, I'm a student passionate about open source.
 You can verify my signed commits and messages using the following public key:
